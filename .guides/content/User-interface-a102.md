@@ -1,6 +1,6 @@
 Users interact with the operating system through a **user interface**.
 
-![](.guides/img/inteface.png)
+![](.guides/img/interface.png)
 
 Many operating system provide a graphical user interface (GUI) e.g. Windows and iOS. The user communicates with the operating system using **W**indows, **I**cons, drop-down **M**enus and **P**ointers (WIMP).
 
