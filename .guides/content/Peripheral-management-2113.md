@@ -1,0 +1,3 @@
+The peripheral manager manages all of the computer input and output by managing Requests from programs to use input and output devices such as keyboards, hard disk drives, printers and speakers are managed by the operating system.
+
+It communicates with the devices through software called drivers, which translate the instructions sent by the device manager of the operating system into ones that the devices can understand.

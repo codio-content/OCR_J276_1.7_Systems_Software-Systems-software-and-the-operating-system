@@ -1,0 +1,66 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1890750699",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": false,
+   "text": "Systems software controls and <<<maintains>>> the computer system. \nAn operating system controls the computer <<<hardware>>> and <<<software>>> and manages user <<<interactions>>> with it.\nProgram requests to use RAM are managed by the <<<memory>>> manager and it is also responsible for using <<<virtual>>> memory when the RAM is full.\nThe <<<peripheral>>> manager communicates with input and output devices through the use of software called <<<drivers>>>.\nThe <<<file>>> manager is responsible for keeping track of all of the data stored on the system and allowing a user to access it when required. \nIt can be given <<<permissions>>> to users to carry out different operations on the files.\nThe user <<<interface>>> allows the user to communicate with the operating system to carry out operations such as loading and deleting files. \nA <<<GUI>>> provides a graphical interface using windows, <<<icons>>>, menus and pointers.\nWhen using a  <<<command>>> line interface a user must type in commands but these can be combined into <<<batch>>> files.",
+   "tokens": {
+    "blank": [
+     "maintains",
+     "hardware",
+     "software",
+     "interactions",
+     "memory",
+     "virtual",
+     "peripheral",
+     "drivers",
+     "file",
+     "permissions",
+     "interface",
+     "GUI",
+     "icons",
+     "command",
+     "batch"
+    ],
+    "text": [
+     "Systems software controls and ",
+     0,
+     " the computer system. \nAn operating system controls the computer ",
+     0,
+     " and ",
+     0,
+     " and manages user ",
+     0,
+     " with it.\nProgram requests to use RAM are managed by the ",
+     0,
+     " manager and it is also responsible for using ",
+     0,
+     " memory when the RAM is full.\nThe ",
+     0,
+     " manager communicates with input and output devices through the use of software called ",
+     0,
+     ".\nThe ",
+     0,
+     " manager is responsible for keeping track of all of the data stored on the system and allowing a user to access it when required. \nIt can be given ",
+     0,
+     " to users to carry out different operations on the files.\nThe user ",
+     0,
+     " allows the user to communicate with the operating system to carry out operations such as loading and deleting files. \nA ",
+     0,
+     " provides a graphical interface using windows, ",
+     0,
+     ", menus and pointers.\nWhen using a  ",
+     0,
+     " line interface a user must type in commands but these can be combined into ",
+     0,
+     " files."
+    ]
+   }
+  }
+ }
+]

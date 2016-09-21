@@ -1,0 +1,106 @@
+{
+ "sections": [
+  {
+   "id": "3752f9c3-87c5-1685-c6c1-3259fa541540",
+   "title": "Systems software and the operating system",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Systems-software-and-the-operating-system-3752.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "88752e9a-3f5f-582d-ba8d-8eb541b5fc04",
+   "title": "Operating systems",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Operating-systems-8875.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "59476284-9d3a-d24a-419e-3a9ffcf461fb",
+   "title": "Memory management",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Memory-management-5947.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "21138ded-0f50-22d8-bdd6-b4c8099750f3",
+   "title": "Peripheral management",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Peripheral-management-2113.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c5e8bca7-7964-5adf-d056-e5dffb6de1c7",
+   "title": "File management",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/File-management-c5e8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dc8a1b63-c448-1706-5160-21028fb31e2e",
+   "title": "User management",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/User-management-dc8a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a1021f4c-b055-1cb9-9e7e-bdb743f6fa41",
+   "title": "User interface",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/User-interface-a102.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b8a44891-ea86-1c6b-cd39-602d577cc98a",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-b8a4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "51beccb0-e418-bd9c-a57b-505d4994760c",
+   "title": "Question",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Question-51be.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
