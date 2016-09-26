@@ -1,4 +1,4 @@
-The operating system manages users by allocating file permissions as mentioned above.
+The operating system manages users by allocating file permissions as previously.
 
 It also controls access to the computer by allowing the user to set up login names and passwords.
 

@@ -1,4 +1,4 @@
-In this lesson we will look 
+In this lesson we will look at:
 
 **Systems software**
 The system software includes the BIOS and also the **operating system** and **utility system software**. 
