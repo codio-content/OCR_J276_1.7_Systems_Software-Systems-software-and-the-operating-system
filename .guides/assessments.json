@@ -5,7 +5,7 @@
   "source": {
    "name": "Question 1",
    "showName": false,
-   "instructions": "**Select correct answers from the available list**",
+   "instructions": "**Select correct answers from the available list. N.B. Answer the 'and' answer alphabetically",
    "points": "1",
    "showValues": true,
    "text": "Systems software controls and <<<maintains>>> the computer system. \nAn operating system controls the computer <<<hardware>>> and <<<software>>> and manages user <<<interactions>>> with it.\n",

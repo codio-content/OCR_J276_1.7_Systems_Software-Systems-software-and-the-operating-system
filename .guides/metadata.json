@@ -102,5 +102,7 @@
  ],
  "theme": "light",
  "scripts": [],
- "lexikonTopic": ""
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "hideMenu": false
 }
